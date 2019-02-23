@@ -1,0 +1,6 @@
+name: NPC
+author: KingoZ_
+main: me.npc.Main
+version: 1.0
+commands:
+  setNPC:
